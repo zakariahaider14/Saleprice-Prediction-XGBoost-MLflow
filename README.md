@@ -1,0 +1,1 @@
+We have implemented the entire MLOps pipeline, from data ingestion to model training, evaluation, and deployment. We have used MLflow to track the experiment, model registry, and S3 artifacts. We have also used PostgreSQL to store the metadata of the experiment, runs, and metrics.
